@@ -4,13 +4,13 @@
 
 We keep a positive attitude, and we acknowledge the world is boundless possibility. We never give up. The only force standing in the way of a perfect solution to any problem is lack of will.
 
-We grind with devastating tenacity to overcome doubts and obstacles and to defeat our enemies. Because fuck them, that's why.
+We grind with devastating tenacity to overcome doubts and obstacles and to defeat our enemies.
 
 ## Craft: Quality and Perfection
 
 The purpose of existence is to make the world better, and what we put out into the world is a reflection of ourselves. We strive to perfect our craft. We spend a significant portion of our lives working, and to not have pride in our product would be a tragedy.
 
-Our work _delights_ our customers, and someday, we hope it can delight ourselves.
+Our work _delights_ our customers, and hopefully, it also delights us.
 
 Long story short: We care.
 

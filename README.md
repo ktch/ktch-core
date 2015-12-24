@@ -1,8 +1,8 @@
-# the Kitchen - Core Values (v0.9)
+# the Kitchen - Core Values (v0.92)
 
 ## Grit: Everything is Possible
 
-We keep a positive attitude, and we acknowledge the world is boundless possibility. We never give up. The only force standing in the way of a perfect solution to any problem is lack of will.
+We keep a positive attitude, and we acknowledge that the world is boundless possibility. We never give up. The only force standing in the way of a perfect solution to any problem is lack of will.
 
 We grind with devastating tenacity to overcome doubts and obstacles and to defeat our enemies.
 
@@ -18,7 +18,7 @@ Long story short: We care.
 
 Profit isn't only about making money. It's about increasing the value of everything we touch. In fact, _even "making money" isn't really about money_. Financial gain is just one indicator of generated value.
 
-In everything we do, every single person and entity in the process _must_ profit: from our company, to our customer, to our staff, to a location where we film.
+In all that we do, every single person and entity in the process _must_ profit: from our company, to our customer, to our staff, to a location where we film.
 
 Growth is a reflection of our value and its only purpose is to drive even greater value.
 
@@ -34,8 +34,11 @@ In the end, we trust our gut, and we do what feels best.
 
 On the piano, the ability to play different notes together expands the array of possible tones from twelve to nine thousand.
 
-A good idea is only a single key. It is the hundreds of supporting ideas that can turn it into _an actual thing that is good_. Only a great _team_ can generate the ten thousand ideas, experiences, and passions it would take to make a single good idea into something truly _great_.
+A good idea is only a single key. It is the hundreds of supporting ideas that can turn it into _an actual thing that is good_. Only a great _team_ can generate the thousand ideas, experiences, and passions it would take to make a single good idea into something truly _great_.
 
-In everything we do, we support our teammates, we recognize our own limitations, we lean on the strengths of others, and we tirelessly challenge one another to be the best we can be.
+In everything we do, we recognize our own limitations, we support our teammates, we lean on their strengths, and we tirelessly challenge one another to be the best we can be.
+
+
+
 
 > Copyright 2016, the Kitchen Inc.

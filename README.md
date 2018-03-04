@@ -1,4 +1,4 @@
-# the Kitchen - Core Values (v0.92)
+# Short Order - Core Values (v0.92)
 
 ## Grit: Everything is Possible
 

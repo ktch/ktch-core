@@ -1,6 +1,14 @@
-# Short Order - Core Values (v0.92)
+# Short Order - Core Values (v1.0)
 
-## Grit: Everything is Possible
+## Creativity: Freedom and Intuition
+
+In order to have full access to the Universal and Magical Ocean of Solutions, we defend our absolute freedom to try things, to say things, to fight for things, and to feel things.
+
+We are open to all ideas. We will not be afraid of failure or anything else. We play with toys, tap on keys, put pencil to paper, and dance in circles, because it is our nature, and we do not know where the answer will come from.
+
+In the end, we trust our gut, and we do what feels best.
+
+## Sticktoitiveness: Everything is Possible
 
 We keep a positive attitude, and we acknowledge that the world is boundless possibility. We never give up. The only force standing in the way of a perfect solution to any problem is lack of will.
 
@@ -22,14 +30,6 @@ In all that we do, every single person and entity in the process _must_ profit: 
 
 Growth is a reflection of our value and its only purpose is to drive even greater value.
 
-## Intuition: Freedom and Creativity
-
-In order to have full access to the Universal and Magical Ocean of Solutions, we defend our absolute freedom to try things, to say things, to fight for things, and to feel things.
-
-We are open to all ideas. We will not be afraid of failure or anything else. We play with toys, tap on keys, put pencil to paper, and dance in circles, because it is our nature, and we do not know where the answer will come from.
-
-In the end, we trust our gut, and we do what feels best.
-
 ## Harmony: Teamwork, Humility, and Grace
 
 On the piano, the ability to play different notes together expands the array of possible tones from twelve to nine thousand.
@@ -41,4 +41,4 @@ In everything we do, we recognize our own limitations, we support our teammates,
 
 
 
-> Copyright 2016, the Kitchen Inc.
+> Copyright 2019, Short Order Production House
